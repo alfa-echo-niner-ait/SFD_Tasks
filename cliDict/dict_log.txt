@@ -1,0 +1,11 @@
+[2023-07-14 19:46:50,179] (<method>main) INFO: Searching word: Hello
+[2023-07-14 19:46:50,186] (urllib3.connectionpool) DEBUG: Starting new HTTPS connection (1): api.dictionaryapi.dev:443
+[2023-07-14 19:46:50,248] (<class>DataReader) WARNING: Data fetching failed! Please check network.
+[2023-07-14 19:46:50,248] (<class>DataReader) WARNING: Data fetching failed! Please check network.
+[2023-07-14 19:47:20,877] (<method>main) INFO: Searching word: Hel1o
+[2023-07-14 19:47:20,877] (<method>validWord) ERROR: Invalid word! Please pass correct word.
+[2023-07-14 19:47:20,877] (<method>validWord) ERROR: Invalid word! Please pass correct word.
+[2023-07-14 19:47:48,765] (<method>main) INFO: Searching word: Hello
+[2023-07-14 19:47:48,765] (urllib3.connectionpool) DEBUG: Starting new HTTPS connection (1): api.dictionaryapi.dev:443
+[2023-07-14 19:47:51,410] (urllib3.connectionpool) DEBUG: https://api.dictionaryapi.dev:443 "GET /api/v2/entries/en/Hello HTTP/1.1" 200 None
+[2023-07-14 19:47:51,421] (<method>main) INFO: Result print success: Hello
