@@ -28,9 +28,8 @@
 # Task 10: Observer Practice 
 
 >To implement the program described in the class diagram, write an Editor emulator that notifies a concrete Observer when openFile() and saveFile() are called.
->
+> ![](https://raw.githubusercontent.com/alfa-echo-niner-ait/SFD_Tasks/main/Observer/QDg.png "Question Diagram")
 >You don't have to actually implement sending an email, you can use display messages instead.
 >
 >Test your observer in the main method by calling openFile() and saveFile().
 
-![](images/QDg.png "Question Diagram")
