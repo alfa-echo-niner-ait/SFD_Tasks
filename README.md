@@ -33,3 +33,10 @@
 >
 >Test your observer in the main method by calling openFile() and saveFile().
 
+# Task 11: State Practice
+
+> To implement the program described in the class diagram, write an Audio Player emulator with 4 buttons and 3 states, where the functionality of the buttons may change depending on the current state.
+> 
+> ![](https://github.com/alfa-echo-niner-ait/SFD_Tasks/blob/main/State/QDg.png "Question Diagram")
+>
+> You don't have to actually implement the GUI and playback functionality.
